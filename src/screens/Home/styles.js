@@ -10,7 +10,10 @@ const styles = StyleSheet.create({
     button: {
         marginTop: 20,
         padding: 10,
-        backgroundColor: "#f0f0f0"
+        backgroundColor: "#c594c5",
+        borderRadius: 5,
+        width: '40%',
+        alignItems: "center"
     }
 });
 export default styles;
